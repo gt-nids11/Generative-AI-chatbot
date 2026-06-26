@@ -3,6 +3,7 @@
 A Generative AI chatbot built with **Python**, **Streamlit**, **LangChain**, and **Groq LLM**. The application provides an interactive chat interface where users can ask questions and receive AI-generated responses in real time.
 
 ---
+copy the url- https://generative-ai-chatbot-1.streamlit.app/
 
 ## 🚀 Features
 
