@@ -43,7 +43,7 @@ chatbot_streamlit/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
+git clone https://github.com/gt-nids11/Generative-AI-chatbot.git
 ```
 
 ### 2. Navigate to the project directory
